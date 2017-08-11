@@ -4,10 +4,8 @@
 - COURSE: CS50 edx Course
 - BOOK: ** Read YDKJS **
 - BOOK: ** Read JS Allonge 6th **
-- PROJECT: 1 Any
-Any personal project, could be for CS50 final project, just to take a break and get hands on
-- PROJECT: 2 Any
-Project based on some library like D3 or something taught in CS50 final week seminars
+- PROJECT: RoyCo Roofing Site (Using metalsmith static site generator)
+- PROJECT: Rapid prototype using Bootstrap and JQUERY
 ---
 - COURSE: 13WOJS W2  
 > Computer Science, Design, Functioinal Programing
