@@ -10,7 +10,28 @@
 - COURSE: 13WOJS W2  
 > Computer Science, Design, Functioinal Programing
 
+### Tire 2 
+- COURSE: 13WOJS W3
+> Performance, HTML5 Realtime and Node.js, D3  
+- TUTORIAL: FCC Back End Tutorials
 
+### Tire 3
+- PROJECT: Project with D3 or game
+- PROJECT: FCC Back End Projects
+
+### Tire ... **(To Be anounced)**
+
+## Overall Set To Learn
+- JS Allonge Book
+- Node *(FCC Back End Projects)*
+- Algorithms and Data structures *(Study algorithms and impliment them)*
+- Some MVC
+  
+  
+  
+  
+  
+# Older *New* Path
 ### Tire 2
 - COURSE: 13WOJS W3
 > Performance, HTML5 Realtime and Node.js, D3  
