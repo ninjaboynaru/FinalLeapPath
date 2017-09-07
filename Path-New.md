@@ -1,19 +1,17 @@
 
 
-### Tire 1 (July - August)
+### Tire 1 (July - September)
 - COURSE: CS50 edx Course
 - BOOK: ** Read YDKJS **
 - BOOK: ** Read JS Allonge 6th **
-- PROJECT: RoyCo Roofing Site (Using metalsmith static site generator)
-- PROJECT: Rapid prototype using Bootstrap and JQUERY
 ---
-- COURSE: 13WOJS W2  
+- COURSE: 13WOJS W2 (Only do the algorithms and design paterns parts)
 > Computer Science, Design, Functioinal Programing
 
 ### Tire 2 
 - COURSE: 13WOJS W3
 > Performance, HTML5 Realtime and Node.js, D3  
-- TUTORIAL: FCC Back End Tutorials
+- TUTORIAL: FCC Back End Tutorials *(What ever you feal is needed)*
 
 ### Tire 3
 - PROJECT: Project with D3 or game
