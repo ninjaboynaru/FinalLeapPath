@@ -11,8 +11,8 @@
 
 
 ### Tire 2 
-- COURSE: Learn MVC *Learn Angulare so you can work with Ionic in the future*
-- PROJECT: Project with Angulare
+- COURSE: Chose Angular course from Front End Masters *Learn Angulare so you can work with Ionic in the future*
+- PROJECT: Project with Angular
 
 ### Tire 3
 - TUTORIAL: FCC Back End Tutorials *(What ever you feal is needed)*
