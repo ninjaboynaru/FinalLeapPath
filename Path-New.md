@@ -6,15 +6,15 @@
 - BOOK: ** Read JS Allonge 6th **
 ---
 - COURSE: 13WOJS W2 (Only do the algorithms and design paterns parts)
-> Computer Science, Design, Functioinal Programing
+	- [COURSE: FEM Computer Science Course](https://frontendmasters.com/courses/computer-science/)
+ 	- BOOK: Read [JavaScript Mixins](https://javascriptweblog.wordpress.com/2011/05/31/a-fresh-look-at-javascript-mixins/)
+
 
 ### Tire 2 
-- COURSE: 13WOJS W3
-> Performance, HTML5 Realtime and Node.js, D3  
-- TUTORIAL: FCC Back End Tutorials *(What ever you feal is needed)*
+
 
 ### Tire 3
-- PROJECT: Project with D3 or game
+- TUTORIAL: FCC Back End Tutorials *(What ever you feal is needed)*
 - PROJECT: FCC Back End Projects
 
 ### Tire ... **(To Be anounced)**
@@ -27,26 +27,3 @@
   
   
   
-  
-  
-# Older *New* Path
-### Tire 2
-- COURSE: 13WOJS W3
-> Performance, HTML5 Realtime and Node.js, D3  
----
-- PROJECT: Make Game with D3 or some other project
-
-### Tire 3
-- TUTORIAL: FCC Back End Tutorials  
-If 13WOJS W3 sufficiantly covers Node, then only do Mongo tutorial
----
-- PROJECT: FCC API Service Tutorials
-- Mabey Second project utilizing database
-
-
-### Tires 4+
-- Backend
-- MVC *(Angular)*
-- FCC Back End Cert *(All Projects)*
-- Other Books
-
