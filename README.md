@@ -1,6 +1,6 @@
 # FinalLeapPath
-The final leap of my web development self study path
-* **_(Items compleated before the creation of this repository have not been included. (Created 7/4/2017) )_**
+The final leap of my web development self study path.
+> Become job ready as soon as possible. When job ready, develop a profesional portfolio and apply for jobs. While applying for jobs > return and further polish and expand knoladge.
 
 Based on P1XT's guides (fast track) and *13 Weeks Of JavaScript*.
 * [P1XT Guides](https://github.com/P1xt/p1xt-guides)
