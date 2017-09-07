@@ -1,6 +1,8 @@
 # FinalLeapPath
 The final leap of my web development self study path.
-> Become job ready as soon as possible. When job ready, develop a profesional portfolio and apply for jobs. While applying for jobs > return and further polish and expand knoladge.
+> Become job ready as soon as possible. When job ready, develop a profesional portfolio and apply for jobs. While applying for jobs > return and further polish and expand knoladge.  
+>
+> Hone in on Algorithms and Data Structures, MVC and the Backend
 
 Based on P1XT's guides (fast track) and *13 Weeks Of JavaScript*.
 * [P1XT Guides](https://github.com/P1xt/p1xt-guides)
