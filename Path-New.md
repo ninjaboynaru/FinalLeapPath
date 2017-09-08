@@ -5,10 +5,10 @@
 - BOOK: ** Read YDKJS **
 - BOOK: ** Read JS Allonge 6th **
 ---
-- PROJECT: Multipage website clone (at least 2 pages)
+- PROJECT: Slide Show JS Project
 - COURSE: 13WOJS W2 (Only do the algorithms and design paterns parts)
 	- [COURSE: FEM Computer Science Course](https://frontendmasters.com/courses/computer-science/)
- - BOOK: Read [JavaScript Mixins](https://javascriptweblog.wordpress.com/2011/05/31/a-fresh-look-at-javascript-mixins/)
+- BOOK: Read [JavaScript Mixins](https://javascriptweblog.wordpress.com/2011/05/31/a-fresh-look-at-javascript-mixins/)
 
 
 ### Tire 2 
