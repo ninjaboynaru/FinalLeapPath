@@ -11,11 +11,11 @@
 - [x] BOOK: Read [JavaScript Mixins](https://javascriptweblog.wordpress.com/2011/05/31/a-fresh-look-at-javascript-mixins/)
 
 
-### Tire 2 
-- [ ] COURSE: Chose Angular course from Front End Masters *Learn Angulare so you can work with Ionic in the future*
-- [ ] PROJECT: Project with Angular
+### Tire 2  (October)
+- [ ] COURSE: [FEM React v3 Course](https://frontendmasters.com/courses/react/introduction)
+- [ ] PROJECT: Project with React
 
-### Tire 3
+### Tire 3 (November)
 - [ ] TUTORIAL: FCC Back End Tutorials *(What ever you feal is needed)*
 - [ ] PROJECT: FCC Back End Projects
 
