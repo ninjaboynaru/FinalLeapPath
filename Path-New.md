@@ -12,8 +12,9 @@
 
 
 ### Tire 2  (October)
-- [ ] COURSE: [FEM React v3 Course](https://frontendmasters.com/courses/react/introduction)
+- [ ] COURSE: [FEM React v3 Course - Front End](https://frontendmasters.com/courses/react/introduction)
 - [ ] PROJECT: Project with React
+- [ ] COURSE: [FEM React v3 Course - Server Side Rendering](https://frontendmasters.com/courses/react/introduction) 
 
 ### Tire 3 (November)
 - [ ] TUTORIAL: FCC Back End Tutorials *(What ever you feal is needed)*
