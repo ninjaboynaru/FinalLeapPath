@@ -18,7 +18,16 @@
 
 ### Tire 3 (November)
 - [ ] TUTORIAL: FCC Back End Tutorials *(What ever you feal is needed)*
-- [ ] PROJECT: FCC Back End Projects
+- [ ] PROJECT: FCC Backend API Project 1 **(Est time - 1w at work-study mix)**
+- [ ] PROJECT: FCC Backend API Project 2 **(Est time - 2w at work-study mix)**
+
+### Tire 4 (December)
+- [ ] PROJECT: FCC Dynamic Web App Project 1 **(Est time - 2w at work-study mix)**
+- [ ] PROJECT: FCC Dynamic Web App Project 2 **(Est time - 2w at work-study mix)**
+
+### Tire 4 (January - Take month off from work - Sufficiant reserves)
+- [ ] PROJECT: FCC Dynamic Web App Project 3 **(Est time - 1w at full study)**
+- [ ] PROJECT: Portfolio **(Est time - 1-2w at full study)**
 
 ### Tire ... **(To Be anounced)**
 
@@ -26,7 +35,7 @@
 - [x] JS Allonge Book
 - [ ] Node *(FCC Back End Projects)*
 -[x] Algorithms and Data structures *(Study algorithms and impliment them)*
-- [ ] Some MVC
+- [x] Some MVC
 - [ ] HTTP Protocol and AJAX
   
   
