@@ -19,9 +19,8 @@
 ### Tire 3 (November)
 - [x] TUTORIAL: FCC Back End Tutorials *(What ever you feal is needed)*
 - [x] PROJECT: FCC Backend API Project 1 **(Est time - 1w at work-study mix)**
-- [ ] PROJECT: FCC Backend API Project 2 **(Est time - 2w at work-study mix)**
+- [x] PROJECT: FCC Backend API Project 2 **(Est time - 1w at work-study mix)**
 - [ ] READ: Read short basics of web accesibility
-- [ ] READ: Read short basics of SEO
 
 ### Tire 4 (December)
 - [ ] PROJECT: FCC Dynamic Web App Project 1 **(Est time - 2w at work-study mix)**
